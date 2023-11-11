@@ -1,0 +1,16 @@
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.exe
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.deps.json
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.json
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.csproj.AssemblyReference.cache
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfo.cs
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\refint\KnowledgeCheck1_Calculator.dll
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.genruntimeconfig.cache
+C:\Users\Cameron\Documents\Projects\KnowledgeCheck1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\ref\KnowledgeCheck1_Calculator.dll
